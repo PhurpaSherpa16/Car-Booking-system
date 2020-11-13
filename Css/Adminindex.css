@@ -1,0 +1,42 @@
+#horizontalBar{
+		background-color:#dee3ea ; min-height: 100%; margin-top: 50px;position: fixed; padding: 0px;
+	}
+	.navbar{
+	 background-color: #272828;
+	 border:none;
+	position: fixed;
+	height: 50px;
+	width: 100%;
+	}
+	.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover{
+		background-color: #e8491d;
+	}
+	.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover{
+		background-color: #e8491d;
+	}
+	#ab{
+		color: white;
+		font-size: 18px;
+		letter-spacing: 5px;
+		text-transform: uppercase;
+
+	}
+	#a{
+		color: black;
+		font-size: 16px;
+		text-transform: uppercase;
+	}
+	#a:hover{
+		background-color: #e8491d;
+		font-size: 16px;
+		width: 100%;
+	}
+
+	#hoz li{
+	margin:0px; padding: 0px; width: 100%;
+	}
+	
+	#body{
+		background-color:; min-height: 500px;margin-top: 50px; position:initial; 
+	}
+	

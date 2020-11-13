@@ -1,0 +1,55 @@
+h1{
+	color: white;
+	font-family: Agency FB;
+	letter-spacing: 5px;
+	font-size: 25px;
+}
+#article{
+	color: white;
+	letter-spacing: 2px;
+	font-size: 17px;
+}
+#img{
+	background-attachment: fixed;
+	background-size: cover;
+}
+#imgback1{
+	min-height: 700px; background-attachment: fixed; 
+	background-size: cover;
+	background-position: top;
+	background-repeat: no-repeat;
+	padding-top: 100px; 
+	padding-right: 100px;
+} 
+#button{
+	width: 150px; 
+	background-color: #e8491d;
+	border:none;
+	border-radius:0px;
+	opacity: .8;
+	font-size: 17px;
+}
+#button:hover{
+	background-color: white;
+	font-size: 18px;
+	color: #e8491d;
+}
+#footerbox{
+	min-height: 230px; background-color: ; 
+	margin-top: 10px; margin-bottom: 10px; 
+	padding-top: 5px; padding-bottom: 5px;"
+}
+#footer{
+	color: white;
+}
+#footer a{
+	color:  #e8491d;
+	text-decoration: none;	
+}
+#footer a:hover{
+	color: white;
+	text-decoration: underline;
+}
+#follow:hover{
+	background-color:white;
+} 
